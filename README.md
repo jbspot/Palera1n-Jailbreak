@@ -14,3 +14,4 @@ However in PaleRain for iOS 17, Only iPadOS 17 is compatible. The reason for tha
 A new version of palera1n has been released as v2.0.0 beta 8. According to that update PaleRa1n team has announced that successfully Now Palera1n is compatible with iOS 17 - iOS 17.1 jailbreak. 
 
 - Browse the main source by clicking <a href="https://github.com/palera1n/palera1n">here</a>.
+- How to use Palera1n <a href="https://ios.cfw.guide/installing-palera1n/">here</a>.
