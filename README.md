@@ -50,6 +50,9 @@ The Palera1n jailbreak tool is only compatible with Linux or macOS. No official 
 ## WinRain jailbreak
 The latest version of WinRa1in is WinRa1n 2.0. Happy to inform you that this version is compatible with Windows jailbreak and it works with all checkm8 devices , A8 - A11 running iOS 12 - iOS 14 and iOS 15 - iOS 16.
 
+![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/winra1n-jailbreak.565x0-is.webp)
+
+
 ## OpenRa1n jailbreak
 OpenRa1n provide the strength of Palera1n jailbreak tool , allowing you to jailbreak any checkm8 devices running iOS 15 and iOS 16. Openra1n is also a windows jailbreak tool that allows iPhone users to jailbreak their device with windows. 
 
