@@ -31,4 +31,10 @@ Palera1n Virtual jailbreak is an extended version of PaleR1n jailbreak tool. Pal
 - More details about Palear1n Virtual jailbreak - Click <a href="https://pangu8.com/jailbreak/palera1n/">here</a>
 - How to use Palera1n virtual jailbreak - Click <a href="https://silzee.com/Palera1nJailbreak/#semi-Jailbreak">here</a>
 
+## Palera1n Jailbreak news
+
+- In twitter Palear1n team has pinned a post about “ #palera1n iOS 17 jailbroken in under 24 hours!”
+
+![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
+
 
