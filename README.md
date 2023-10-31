@@ -15,14 +15,14 @@ However in PaleRain for iOS 17, Only iPadOS 17 is compatible. The reason for tha
 
 A new version of palera1n has been released as v2.0.0 beta 8. According to that update PaleRa1n team has announced that successfully Now Palera1n is compatible with iOS 17 - iOS 17.1 jailbreak. 
 
-- Browse the main source by clicking <a href="https://github.com/palera1n/palera1n">here</a>.
-- How to use Palera1n <a href="https://ios.cfw.guide/installing-palera1n/">here</a>.
+- Browse the main source by clicking <a href="https://github.com/palera1n/palera1n" target="_blank">here</a>.
+- How to use Palera1n <a href="https://ios.cfw.guide/installing-palera1n/" target="_blank">here</a>.
 
 ### Palera1n releases for PC
-- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.7">Download Palera1n v2.0.0 beta 7</a>
-- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.6.2">Download Palera1n v2.0.0 beta 6: Bakepale</a>
-- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.5">Download Palera1n v2.0.0 beta 5: Tumbleweed</a>
-- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.4">Download Palera1n v2.0.0 beta 4</a>
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.7" target="_blank">Download Palera1n v2.0.0 beta 7</a>
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.6.2" target="_blank">Download Palera1n v2.0.0 beta 6: Bakepale</a>
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.5" target="_blank">Download Palera1n v2.0.0 beta 5: Tumbleweed</a>
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.4" target="_blank">Download Palera1n v2.0.0 beta 4</a>
 
   <hr>
 
@@ -40,8 +40,8 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
 
-- More details about Palear1n Virtual jailbreak - Click <a href="https://pangu8.com/jailbreak/palera1n/">here</a>
-- How to use Palera1n virtual jailbreak - Click <a href="https://silzee.com/Palera1nJailbreak/#semi-Jailbreak">here</a>
+- More details about Palear1n Virtual jailbreak - Click <a href="https://pangu8.com/jailbreak/palera1n/" target="_blank">here</a>
+- How to use Palera1n virtual jailbreak - Click <a href="https://silzee.com/Palera1nJailbreak/#semi-Jailbreak" target="_blank">here</a>
 
  <hr>
 
@@ -54,7 +54,7 @@ The Palera1n jailbreak tool is only compatible with Linux or macOS. No official 
 ## WinRain jailbreak
 The latest version of WinRa1in is WinRa1n 2.0. Happy to inform you that this version is compatible with Windows jailbreak and it works with all checkm8 devices , A8 - A11 running iOS 12 - iOS 14 and iOS 15 - iOS 16.
 
-WinRain Jailbreak <a href="https://www.techacrobat.com/winra1n-windows-jailbreak-tool/">guide</a>
+WinRain Jailbreak <a href="https://www.techacrobat.com/winra1n-windows-jailbreak-tool/" target="_blank">guide</a>
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/winra1n-jailbreak.565x0-is.webp)
 
@@ -62,7 +62,7 @@ WinRain Jailbreak <a href="https://www.techacrobat.com/winra1n-windows-jailbreak
 ## OpenRa1n jailbreak
 OpenRa1n provide the strength of Palera1n jailbreak tool , allowing you to jailbreak any checkm8 devices running iOS 15 and iOS 16. Openra1n is also a windows jailbreak tool that allows iPhone users to jailbreak their device with windows.
 
-OpenRa1n Jailbreak <a href="https://iphonewired.com/firmware-update/681261/">guide</a>
+OpenRa1n Jailbreak <a href="https://iphonewired.com/firmware-update/681261/" target="_blank">guide</a>
 
  <hr>
 
