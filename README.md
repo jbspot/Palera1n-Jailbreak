@@ -45,19 +45,7 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
  <hr>
 
-## Palera1n Jailbreak news
-
-- In twitter Palear1n team has pinned a post about “ #palera1n iOS 17 jailbroken in under 24 hours!”
-
-![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/News-jailbroken.jpg)
-
-- In twitter Palear1n team has pinned a post about “ #palera1n iOS 17 jailbroken in under 24 hours!”
-
-![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/News-beta8.jpg)
-
- <hr>
- 
-# Palera1n Jailbreak Windows tools
+ # Palera1n Jailbreak Windows tools
 
 The Palera1n jailbreak tool is only compatible with Linux or macOS. No official Windows version. But Winra1n and openra1n (Palera1n windows alternative) are now compatible with palera1n GUI on windows PC.
 
@@ -75,6 +63,18 @@ WinRain Jailbreak <a href="https://www.techacrobat.com/winra1n-windows-jailbreak
 OpenRa1n provide the strength of Palera1n jailbreak tool , allowing you to jailbreak any checkm8 devices running iOS 15 and iOS 16. Openra1n is also a windows jailbreak tool that allows iPhone users to jailbreak their device with windows.
 
 OpenRa1n Jailbreak <a href="https://iphonewired.com/firmware-update/681261/">guide</a>
+
+ <hr>
+
+## Palera1n Jailbreak news
+
+- In twitter Palear1n team has pinned a post about “ #palera1n iOS 17 jailbroken in under 24 hours!”
+
+![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/News-jailbroken.jpg)
+
+- In twitter Palear1n team has pinned a post about “ #palera1n iOS 17 jailbroken in under 24 hours!”
+
+![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/News-beta8.jpg)
 
  <hr>
  
