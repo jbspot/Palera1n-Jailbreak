@@ -16,6 +16,8 @@ A new version of palera1n has been released as v2.0.0 beta 8. According to that 
 - Browse the main source by clicking <a href="https://github.com/palera1n/palera1n">here</a>.
 - How to use Palera1n <a href="https://ios.cfw.guide/installing-palera1n/">here</a>.
 
+  <hr>
+
 ### Palera1n jailbreak requirements
 
 - An iOS 15+ device with checkm8 exploit . ( A8- A11)
