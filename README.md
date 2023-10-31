@@ -24,7 +24,7 @@ A new version of palera1n has been released as v2.0.0 beta 8. According to that 
 
 # Palera1n Virtual Jailbreak
 
-Palera1n Virtual jailbreak is an extended version of PaleR1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 17 to iOS 14. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
+Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 17 to iOS 14. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
 
