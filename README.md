@@ -9,12 +9,20 @@ A7 - A 11 devices, including all iPhones and iPads.
 
 However in PaleRain for iOS 17, Only iPadOS 17 is compatible. The reason for that is v2.0.0 beta 8 is developed based on checkm8 exploit. According to that, still no iPhones are based on checkm8, only iPads are compatible.
 
+ <hr>
+
 ## Palera1n jailbreak with iOS 17
 
 A new version of palera1n has been released as v2.0.0 beta 8. According to that update PaleRa1n team has announced that successfully Now Palera1n is compatible with iOS 17 - iOS 17.1 jailbreak. 
 
 - Browse the main source by clicking <a href="https://github.com/palera1n/palera1n">here</a>.
 - How to use Palera1n <a href="https://ios.cfw.guide/installing-palera1n/">here</a>.
+
+### Palera1n releases for PC
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.7">Download Palera1n v2.0.0 beta 7</a>
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.6.2">Download Palera1n v2.0.0 beta 6: Bakepale</a>
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.5">Download Palera1n v2.0.0 beta 5: Tumbleweed</a>
+- <a href="https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.4">Download Palera1n v2.0.0 beta 4</a>
 
   <hr>
 
@@ -24,6 +32,8 @@ A new version of palera1n has been released as v2.0.0 beta 8. According to that 
 - On A11 - you must disable the passcode while in the jailbroken status
 - Recommended to use USB A cables , USB C cables will occur some issues
 
+ <hr>
+
 # Palera1n Virtual Jailbreak
 
 Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 17 to iOS 14. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
@@ -32,6 +42,8 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
 - More details about Palear1n Virtual jailbreak - Click <a href="https://pangu8.com/jailbreak/palera1n/">here</a>
 - How to use Palera1n virtual jailbreak - Click <a href="https://silzee.com/Palera1nJailbreak/#semi-Jailbreak">here</a>
+
+ <hr>
 
 ## Palera1n Jailbreak news
 
@@ -43,6 +55,8 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/News-beta8.jpg)
 
+ <hr>
+ 
 # Palera1n Jailbreak Windows tools
 
 The Palera1n jailbreak tool is only compatible with Linux or macOS. No official Windows version. But Winra1n and openra1n (Palera1n windows alternative) are now compatible with palera1n GUI on windows PC.
@@ -62,6 +76,8 @@ OpenRa1n provide the strength of Palera1n jailbreak tool , allowing you to jailb
 
 OpenRa1n Jailbreak <a href="https://iphonewired.com/firmware-update/681261/">guide</a>
 
+ <hr>
+ 
 ## FAQ 
 
 01.  Is the Palera1n jailbreak safe to use?
