@@ -45,7 +45,7 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
 The Palera1n jailbreak tool is only compatible with Linux or macOS. No official Windows version. But Winra1n and openra1n (Palera1n windows alternative) are now compatible with palera1n GUI on windows PC.
 
-![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/News-beta8.jpg)
+![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palera1n-windows.jpg)
 
 ## FAQ 
 
