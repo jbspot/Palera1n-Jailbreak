@@ -3,7 +3,7 @@ Palera1n jailbreak tool is developed based on iOS 15 and higher, checkm8 exploit
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-banner.png)
 
-### Palera1n Jailbreak
+### Palera1n jailbreak compatibility
 
 A7 - A 11 devices, including all iPhones and iPads.
 
