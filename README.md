@@ -11,9 +11,9 @@ However in PaleRain for iOS 17, Only iPadOS 17 is compatible. The reason for tha
 
  <hr>
 
-## Palera1n jailbreak with iOS 17 - iOS 17.3
+## Palera1n jailbreak with iOS 17 - iOS 17.3.1
 
-A new version of palera1n has been released as v2.0.0 beta 8. According to that update PaleRa1n team has announced that successfully Now Palera1n is compatible with iOS 17 - iOS 17.3 jailbreak. 
+A new version of palera1n has been released as v2.0.0 beta 8. According to that update PaleRa1n team has announced that successfully Now Palera1n is compatible with iOS 17 - iOS 17.3.1 jailbreak. 
 
 - Browse the main source by clicking <a href="https://github.com/palera1n/palera1n">here</a>.
 - How to use Palera1n <a href="https://ios.cfw.guide/installing-palera1n/">here</a>.
@@ -34,9 +34,9 @@ A new version of palera1n has been released as v2.0.0 beta 8. According to that 
 
  <hr>
 
-# Palera1n Virtual Jailbreak
+# Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3.1)
 
-Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 17 to iOS 14. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
+Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 16 to iOS 17.3.1. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
 
