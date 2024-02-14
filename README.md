@@ -65,8 +65,11 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
 
-- More details about Palear1n Virtual jailbreak - Click <a href="https://pangu8.com/jailbreak/palera1n/">here</a>
-- How to use Palera1n virtual jailbreak - Click <a href="https://silzee.com/Palera1nJailbreak/#semi-Jailbreak">here</a>
+#### How to install Palera1n Virtual Jailbreak
+
+<b>Step 01</b> – First you need to install Xookz & following a very simple process.
+
+<b>Step 02</b> – Launch zJailbreak from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from jailbreak category.
 
  <hr>
 
