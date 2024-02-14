@@ -67,9 +67,23 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
 #### How to install Palera1n Virtual Jailbreak
 
-<b>Step 01</b> – First you need to install Xookz & following a very simple process.
+<b>Step 01</b> – First you need to <a href="https://xookz.com/github/install/palerain-virtual/">install Xookz</a> & following a very simple process.
 
-<b>Step 02</b> – Launch zJailbreak from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from jailbreak category.
+<b>Step 02</b> – Launch Xookz from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from jailbreak category.
+
+<b>Step 03</b> – When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.
+
+<b>Step 04</b> – Open the terminal and Activate the terminal and wait for the device to be detected.
+
+<b>Step 05</b> – Copy the device IPSW key from the IPSW file available on homescreen.
+
+Step 06 – Paste it on the terminal > Done.  Once you get the correct key, you will get the “Key Matched!” pop up and the jailbreak process will continue. Wait for the jailbreak procedure to be finished. It will provide a palera1n download button.
+
+<b>Step 07</b> – Go ahead with the installation process. Now you will see the Palerain loader app on your device home screen instead of terminal.
+
+<b>Step 08</b> – Open the Palera1n loader, tap the Install button, it will start the bootstrap process and Sileo registering process. Finally you will see the Sileo Install button.
+
+<b>Step 09</b> – Once complete Sileo installation process, there will be a Sileo on your device homescreen. Enjoy the Tweak installation through Sileo.
 
  <hr>
 
