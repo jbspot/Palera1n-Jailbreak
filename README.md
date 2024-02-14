@@ -73,7 +73,7 @@ iOS 17.3.1, iOS 17.3, iOS 17.2.1, iOS 17.2 , iOS 17.1.2, iOS 17.1.1, iOS 17.1, i
 
 iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 11 Pro Max, iPhone 11 Pro, iPhone 11, iPhone Xs, iPhone Xs Max, iPhone Xr, iPad mini 5, iPad Air 3, iPad Air 4, iPad 8, iPad Pro 3, iPad Pro 4, iPad Pro 5.
 
-#### How to install Palera1n Virtual Jailbreak
+### How to install Palera1n Virtual Jailbreak
 
 <b>Step 01</b> – First you need to <a href="https://xookz.com/github/install/palerain-virtual/">install Xookz</a> & following a very simple process.
 
