@@ -65,10 +65,12 @@ Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Pa
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
 
-####Compatible iOS Versions 
+###Compatible iOS Versions 
+
 iOS 17.3.1, iOS 17.3, iOS 17.2.1, iOS 17.2 , iOS 17.1.2, iOS 17.1.1, iOS 17.1, iOS 17.0.3, iOS 17.0.2, iOS 17.0.1, iOS 17, iOS 16.7.5, iOS 16.7.4, iOS 16.7.3, iOS 16.7.2, iOS 16.7.1, iOS 16.7, iOS 16.6.1, iOS 16.6, iOS 16.5.1, iOS 16.5, iOS 16.4.1, iOS 16.4, iOS 16.3.1, iOS 16.3, iOS 16.2, iOS 16.1.2, iOS 16.1.1, iOS 16.1, iOS 16.0.3, iOS 16.0.2, iOS 16.0.1, iOS 16, iOS 15.8, iOS 15.7.9, iOS 15.7.8, iOS 15.7.7, iOS 15.7.6, iOS 15.7.5, iOS 15.7.4, iOS 15.7.3, iOS 15.7.2, iOS 15.7.1, iOS 15.7, iOS 15.6.1, iOS 15.6, iOS 15.5, iOS 15.4.1, iOS 15.4, iOS 15.3.1, iOS 15.3, iOS 15.2.1, iOS 15.2, iOS 15.1.1, iOS 15.1, iOS 15.0.2, iOS 15.0.1, iOS 15
 
-####Compatible device models 
+###Compatible device models 
+
 iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 11 Pro Max, iPhone 11 Pro, iPhone 11, iPhone Xs, iPhone Xs Max, iPhone Xr, iPad mini 5, iPad Air 3, iPad Air 4, iPad 8, iPad Pro 3, iPad Pro 4, iPad Pro 5.
 
 #### How to install Palera1n Virtual Jailbreak
