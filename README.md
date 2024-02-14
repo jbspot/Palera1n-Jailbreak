@@ -5,7 +5,7 @@ Palera1n jailbreak tool is developed based on iOS 15 and higher, checkm8 exploit
 
 # Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3.1)
 
-Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 16 to iOS 17.3.1. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
+Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 16 to <a href="https://github.com/jbspot/iOS-17-Jailbreak">iOS 17.3</a> & recently released iOS 17.3.1. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
 
