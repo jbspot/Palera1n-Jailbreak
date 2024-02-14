@@ -3,16 +3,6 @@ Palera1n jailbreak tool is developed based on iOS 15 and higher, checkm8 exploit
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-banner.png)
 
-# Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3.1)
-
-Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 16 to <a href="https://github.com/jbspot/iOS-17-Jailbreak">iOS 17.3</a> & recently released iOS 17.3.1. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
-
-![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
-
-- More details about Palear1n Virtual jailbreak - Click <a href="https://pangu8.com/jailbreak/palera1n/">here</a>
-- How to use Palera1n virtual jailbreak - Click <a href="https://silzee.com/Palera1nJailbreak/#semi-Jailbreak">here</a>
-
- <hr>
 
 ### Palera1n jailbreak compatibility
 
@@ -66,6 +56,17 @@ If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Dis
 - An iOS 15+ device with checkm8 exploit . ( A8- A11)
 - On A11 - you must disable the passcode while in the jailbroken status
 - Recommended to use USB A cables , USB C cables will occur some issues
+
+ <hr>
+
+ # Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3.1)
+
+Palera1n Virtual jailbreak is an extended version of Palera1n jailbreak tool. Palera1n Virtual jailbreak is compatible with A16 - A8 devices and  iOS 16 to <a href="https://github.com/jbspot/iOS-17-Jailbreak">iOS 17.3</a> & recently released iOS 17.3.1. This virtual version of Palera1n supports installing Sileo as the default package manager after completing the jailbreak process successfully.
+
+![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/Palera1n-Jailbreak/blob/main/palerain-virtual.jpg)
+
+- More details about Palear1n Virtual jailbreak - Click <a href="https://pangu8.com/jailbreak/palera1n/">here</a>
+- How to use Palera1n virtual jailbreak - Click <a href="https://silzee.com/Palera1nJailbreak/#semi-Jailbreak">here</a>
 
  <hr>
 
