@@ -6,7 +6,7 @@ Palera1n jailbreak tool is developed based on iOS 15 and higher, checkm8 exploit
 
 ### Palera1n jailbreak compatibility
 
-A7 - A 11 devices, including all iPhones and iPads.
+A8 - A 11 devices, including all iPhones and iPads.
 
 However in PaleRain for iOS 17, Only iPadOS 17 is compatible. The reason for that is v2.0.0 beta 8 is developed based on checkm8 exploit. According to that, still no iPhones are based on checkm8, only iPads are compatible.
 
